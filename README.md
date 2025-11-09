@@ -1,2 +1,4 @@
 # project-ML
-c'est un projet personel
+c'est un projet peronel
+
+
